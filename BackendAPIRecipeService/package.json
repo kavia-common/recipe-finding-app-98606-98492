@@ -1,0 +1,24 @@
+{
+  "name": "backendapirecipeservice",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "start": "serve -s dist",
+    "build": "vite build",
+    "test": "jest --runInBand"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "vite": "latest",
+    "serve": "14.0.1",
+    "jest": "latest"
+  }
+}
