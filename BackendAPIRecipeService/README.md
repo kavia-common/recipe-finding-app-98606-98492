@@ -1,3 +1,1 @@
-Dev scaffold. Create and activate venv: python3 -m venv .venv && source .venv/bin/activate
-Install deps: pip install -r requirements.txt
-Run: python -m uvicorn main:app --host 0.0.0.0 --port ${PORT:-8000}
+Development scaffold for BackendAPIRecipeService. Use python3 -m venv .venv && .venv/bin/pip install -r requirements.txt and run with .venv/bin/python run.py
