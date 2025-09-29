@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+tmp_uploads/
+validation_evidence.txt
+.pip_install.log
+.uvicorn.log
